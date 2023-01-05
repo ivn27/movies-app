@@ -8,7 +8,7 @@ import { StyleSheet, Text,
 import ComingSoon from "../components/ComingSoon";
 import Header from "../components/Header";
 
-import test from '../data/max.jpg'
+import test from '../data/dn.jpg'
 
 import movies from '../data/data.json'
 import { ScrollView } from "react-native-gesture-handler";

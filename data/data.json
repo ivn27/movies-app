@@ -5,8 +5,8 @@
         "type": "Drama",
         "seasons": 6,
         "rating": 4,
-        "image": "https://ctd-thechristianpost.netdna-ssl.com/en/full/24446/house-of-cards-season-3-to-return-on-february-27th.jpg",
-        "description": "Lorem is simply dummy text of the printing and typesetting industry."
+        "image": "require('data/dn.jpg')",
+        "description": "Lorem is simply dummy text of the printing and typesetting industry.Lorem is simply dummy text of the printing and typesetting industry"
     },
     {
         "id": 2,
@@ -14,7 +14,7 @@
         "type": "Anime",
         "seasons": 2,
         "rating": 5,
-        "image": "https://occ-0-3211-1123.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABT23uQtvDvdj9vlV1nrwJS6By499as45JUPPVfV083OAX4UzL-Yi0azsV1Tgv9_3hsrzHUmx-fDNpYZOaR1A7QPNNtJWZEmfr-vSvDrROCaXCo8jM-8b4ADpcp6XwrAYC_7QAA.jpg?r=589",
+        "image": "https://img3.hulu.com/user/v3/artwork/8842b9da-ec02-424e-936b-7d50dbf2bcf1?base_image_bucket_name=image_manager&base_image=78c96460-89d2-437c-b8d8-6f986b6a34da&size=600x338&format=jpeg",
         "description": "Lorem is simply dummy text of the printing and typesetting industry."
     },
     {

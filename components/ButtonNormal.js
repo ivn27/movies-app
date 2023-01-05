@@ -6,7 +6,7 @@ import React from 'react';
 
 
 
-export default function Buttonnormal({ title }) {
+export default function ButtonNormal({ title }) {
     return (
         <TouchableOpacity
             style={styles.button} 
