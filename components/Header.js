@@ -1,10 +1,5 @@
 import {StyleSheet, Text, View, Button} from 'react-native';
 
-
-import React from 'react';
-
-
-
 export default function Header() {
     return (
       <View style={styles.container}>

@@ -13,7 +13,6 @@ const screens = {
   },
 };
 
-// home stack navigator screens
 const Stack = createStackNavigator(screens);
 
 export default createAppContainer(Stack);

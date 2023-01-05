@@ -1,9 +1,7 @@
 import {StyleSheet, Text, View, Button, Image} from 'react-native';
 
-
-import React from 'react';
-
 import test from '../data/max.jpg'
+
 import ButtonSelected from './ButtonSelected';
 import ButtonNormal from './ButtonNormal';
 

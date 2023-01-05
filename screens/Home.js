@@ -1,27 +1,17 @@
-import React, { useState } from "react";
-import { StyleSheet, Text,
-  View,
-  FlatList,
-  TouchableOpacity,
-  Image,
-} from "react-native";
+import { StyleSheet, Text, View, FlatList, TouchableOpacity, Image } from "react-native";
+
 import ComingSoon from "../components/ComingSoon";
 import Header from "../components/Header";
 
 import test from '../data/dn.jpg'
-
 import movies from '../data/data.json'
-import { ScrollView } from "react-native-gesture-handler";
 
 export default function Home({ navigation }) {
   return (
     <View style={styles.container}>
-      
       <Header />
-     
-     {/*  <ComingSoon /> */}
-      
-       <FlatList
+      {/*  <ComingSoon /> */}
+      <FlatList
         horizontal={true}
         data={movies}
         style={styles.list}
@@ -37,14 +27,12 @@ export default function Home({ navigation }) {
             <View style={{alignItems: 'center', paddingTop: 10}}>
               <Text style={styles.textMovies}> {item.title}</Text>
             </View>
-            
           </TouchableOpacity>
         )}
       /> 
     </View>
   );
 }
-
 
 const styles = StyleSheet.create({
   container: {
