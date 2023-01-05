@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "House of Cards",
+        "type": "Drama",
+        "seasons": 6,
+        "rating": 4,
+        "image": "https://ctd-thechristianpost.netdna-ssl.com/en/full/24446/house-of-cards-season-3-to-return-on-february-27th.jpg",
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id": 2,
+        "title": "Death Note",
+        "type": "Anime",
+        "seasons": 2,
+        "rating": 5,
+        "image": "https://occ-0-3211-1123.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABT23uQtvDvdj9vlV1nrwJS6By499as45JUPPVfV083OAX4UzL-Yi0azsV1Tgv9_3hsrzHUmx-fDNpYZOaR1A7QPNNtJWZEmfr-vSvDrROCaXCo8jM-8b4ADpcp6XwrAYC_7QAA.jpg?r=589",
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id": 3,
+        "title": "Better Call Saul",
+        "type": "Drama",
+        "seasons": 6,
+        "rating": 4.5,
+        "image": "https://i.ytimg.com/vi/BvfOqEBrw_s/maxresdefault.jpg",
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id": 4,
+        "title": "Breaking Bad",
+        "type": "Drama",
+        "seasons": 5,
+        "rating": 4,
+        "image": "https://i.ytimg.com/vi/BvfOqEBrw_s/maxresdefault.jpg",
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id": 5,
+        "title": "Monster",
+        "type": "Anime",
+        "seasons": 2,
+        "rating": 4.5,
+        "image": "https://i.ytimg.com/vi/BvfOqEBrw_s/maxresdefault.jpg",
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
+    }
+]
